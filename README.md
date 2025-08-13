@@ -3,12 +3,12 @@
 El objetivo es presentar la nueva bebida de nuestro producto de RedBull
 
 ## Colores de la marca de RedBull son:
-- #E21B4D
-- #FFD300
-- #F4EBEE
-- #D9D4CE 
-- #000B8D
-- #1D19AC
+- #E21B4D Vinotinto
+- #FFD300 Amarillo
+- #F4EBEE Gris-claro
+- #D9D4CE Gris-oscuro
+- #000B8D Azul-oscuro
+- #1D19AC Azul-claro
 
 ## TipoGrafia
 

@@ -1,0 +1,38 @@
+:root{
+    /*Colores de la marca RedBull */
+    --Vinotinto: #E21B4D;
+    --Amarillo: #FFD300;
+    --Gris-claro: #F4EBEE;
+    --Gris-oscuro: #D9D4CE;
+    --Azul-oscuro: #000B8D;
+    --Azul-claro: #1D19AC;
+
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: var(--Gris-claro);
+}
+
+
+h1 {
+
+    background-color:#D9D4CE;
+    color:#1D19AC;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    padding: 20px;
+}
+
+p.intro{
+    font-size: 3rem;
+    color: #E21B4D;
+}
+
+.logo {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+.logo img{
+    width: 130px;
+}
