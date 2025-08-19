@@ -18,11 +18,19 @@ Esta landing page usa la fuente Futura que es una tipografía geométrica sans-s
 
 Quien: ¿Usuario Objetivo?
 
+Jóvenes adultos (18–30 años), activos, dinámicos, que buscan energía para estudiar, trabajar largas jornadas, practicar deportes extremos o vivir experiencias intensas. También incluye a fanáticos del entretenimiento, la música y la cultura urbana.
+
 Que necesita: ¿que problema tiene o que necesita resolver?
+
+El usuario enfrenta falta de energía, cansancio o baja concentración en momentos donde requiere máximo rendimiento físico o mental. Necesita una solución rápida que le permita recargar su energía y mantenerse enfocado sin perder el ritmo de sus actividades.
 
 Beneficio final: ¿Que gana el usuario?
 
+Obtiene un impulso de energía inmediato, mayor concentración y sensación de vitalidad para superar retos, cumplir metas y disfrutar experiencias al máximo. Además, se conecta con el estilo de vida audaz y vibrante que Red Bull transmite a través de su marca.
+
 Ejemplo de historia de usuario convertida en proposito
+
+Como estudiante universitario que debe trasnochar para preparar un examen requiero una bebida que me mantenga despierto y concentrado para poder terminar mi estudio sin quedarme dormido.
 
 ## Diseño Visual
 
